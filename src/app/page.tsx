@@ -59,7 +59,6 @@ export default function Home() {
             { items: [{ label: 'Services', onClick: () => {} }, { label: 'Contact', onClick: () => {} }] },
             { items: [{ label: 'Privacy Policy', onClick: () => {} }, { label: 'Terms of Service', onClick: () => {} }] },
           ]}
-          onPrivacyClick={() => {}}
         />
       </div>
     </SiteThemeProvider>
