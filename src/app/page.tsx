@@ -59,7 +59,6 @@ export default function Home() {
             { items: [{ label: 'Services', onClick: () => {} }, { label: 'Contact', onClick: () => {} }] },
             { items: [{ label: 'Privacy Policy', onClick: () => {} }, { label: 'Terms of Service', onClick: () => {} }] },
           ]}
-          copyrightText="© 2023 Xeven Solutions"
           onPrivacyClick={() => {}}
         />
       </div>
